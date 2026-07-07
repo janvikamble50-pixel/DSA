@@ -59,7 +59,7 @@ DSA
 ## 📈 Progress
 
 - Arrays ✅
-- Linked Lists ⏳
+- Linked Lists ✅
 - Stack ⏳
 - Queue ⏳
 - Trees ⏳
