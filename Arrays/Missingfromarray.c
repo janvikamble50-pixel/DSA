@@ -13,8 +13,8 @@ int findMissing(int arr[], int n){
 
 int main(int argc, char const *argv[])
 {
-    int arr[] = {1, 2, 3, 5};
-    int n = 4;
+    int arr[] = {1, 2, 3, 4, 6};
+    int n = 5;
     printf("the missing numbe is %d", findMissing(arr, n));
     return 0;
 }
