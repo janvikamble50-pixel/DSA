@@ -60,7 +60,7 @@ DSA
 
 - Arrays ✅
 - Linked Lists ✅
-- Stack ⏳
+- Stack ✅
 - Queue ⏳
 - Trees ⏳
 - Graphs ⏳
