@@ -84,13 +84,10 @@ int main()
     printf("Enter a string: ");
     scanf("%s", str);
 
-    // Copy original string
     strcpy(rev, str);
 
-    // Reverse the copied string
     reverseString(&s, rev);
 
-    // Compare both strings
     if (strcmp(str, rev) == 0)
     {
         printf("'%s' is a palindrome.\n", str);
