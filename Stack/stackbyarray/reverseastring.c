@@ -48,11 +48,13 @@ char pop(struct stack *ptr)
         ptr->top--;
         return val;
     }
-}
+}  
+
+
 
 int main(int argc, char const *argv[])
 {
-    struct stack s;
+    struct stack s;                
     s.size = 100;
     s.top = -1;
 
